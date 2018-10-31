@@ -1,0 +1,22 @@
+.centraliza{
+    text-align: center;
+    margin-top: 10%;
+}
+
+body {
+    background-image: url(../imgs/back.jpg);
+    background-size: 100%;
+    background-color: aliceblue;
+}
+
+#idproduto, #idcliente, #idoperador{
+    color: #555;
+    cursor: default;
+    background-color: #fff;
+    border: 1px solid #ddd;
+    border-bottom-color: transparent;
+}
+
+.color-text{
+    color: #fff;
+}

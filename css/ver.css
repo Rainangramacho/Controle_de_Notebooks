@@ -1,0 +1,31 @@
+#tabela{
+    background-color: #ddd;
+    width: 90%;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+#titulo{
+    text-align: center;
+    width: 40%;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 2%;
+}
+
+#move-botao{
+   
+    
+}
+.b1{
+   margin-left: 80%;
+    
+}
+
+body{
+    width: 98%;
+}
+
+#check{
+    zoom: 1.2;
+}
